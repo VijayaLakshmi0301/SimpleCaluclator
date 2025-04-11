@@ -59,7 +59,6 @@ namespace SimpleCalculator
             Console.WriteLine("Bye!");
             Console.ReadKey();
         }
-
     }
 }
 
